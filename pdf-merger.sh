@@ -1,5 +1,5 @@
 #1/bin/zsh
 
-cd /Users/vietle/code/pdf-merger
-python3 pdf_merger.py 
-
+# Change the directory to where the python file is saved
+cd
+python3 pdf_merger.py
