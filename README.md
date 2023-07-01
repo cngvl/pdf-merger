@@ -12,6 +12,12 @@ pip3 install PyPDF2
 * Install the required dependencies by running the command mentioned in the "Requirements" section.
 * Change the directory path in both the `pdf_merger.py` and `pdf-merger.sh` files
 * Place the PDF files you want to merge in the `/pdf-files-to-merge` folder.
+  * The PDF files will be merged in ascending order starting from 1.
+  * E.g.
+    * first-item-to-merge-1.pdf
+    * second-item-to-merge-2.pdf
+    * next-item-to-merge-3.pdf
+  * Note: the PDF files are named as "[any-file-name]-[number].pdf"
 * Open a terminal or command prompt and navigate to the script's directory.
 * Run the script by executing the following command:
 ```
