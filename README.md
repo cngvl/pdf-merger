@@ -1,6 +1,8 @@
 # PDF-merger
 A quick Python script made following a YT [tutorial](https://youtu.be/vEQ8CXFWLZU?list=PLMocEdgPD9hOcynpyCn4Zhl91O3PBE80t&t=566) with a few modifications that I think make it a bit more user friendly. This is a straightforward way for me to quickly merge PDF files together, without having to rely on sketchy websites that require uploading files. 
 
+This was one of my first mini projects to get a small idea of what scripting might entail. In the future I plan to make a similar mini project that will help slice and reorder PDF pages as that's an issue I often come across when working with PDF files. 
+
 ## Requirements 
 * Python 3.x: Ensure that Python 3.x is installed on your system before running the script.
 * PyPDF2 Library: This script relies on the PyPDF2 library for PDF manipulation. Make sure you have it installed. If not, you can install it by running the following command:
